@@ -1,5 +1,5 @@
 print("Welcom to our Apps>>")
 street=input("Enter your city name : ")
 name = input("Enter your name : ")
-
+print("Thanks for your time \n see you soon")
 print("Your band name it will be " + street + " " + name)
